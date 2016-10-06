@@ -19,8 +19,8 @@
           },
           "url": "https://simulators.github.io/simulator_boards_1.0.0.zip",
           "archiveFileName": "simulator_boards_1.0.0.zip",
-          "checksum": "SHA-256:e67138a2f6cadc1b5ec296e91af3b18c862cb958962dada08f0b6da4c76af6af",
-          "size": "3268",
+          "checksum": "SHA-256:b351df89e7495ae2705459b8009fe2b4c3e4c7d546b41c33d55e9745c7624e3d",
+          "size": "3476",
           "boards": [
             {"name": "Simulator Interface Board (ICSP)"},
             {"name": "One Bell Simulator Interface Board (ICSP)"},
