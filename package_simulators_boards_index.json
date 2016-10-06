@@ -1,0 +1,37 @@
+{
+  "packages": [
+    {
+      "name": "simulators",
+      "maintainer": "Liverpool Ringing Simulator Project",
+      "websiteURL": "https://github.com/Simulators",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "Liverpool Ringing Simulator Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Simulator",
+          "help": {
+            "online": ""
+          },
+          "url": "https://simulators.github.io/simulator_boards_1.0.0.zip",
+          "archiveFileName": "simulator_boards_1.0.0.zip",
+          "checksum": "SHA-256:e67138a2f6cadc1b5ec296e91af3b18c862cb958962dada08f0b6da4c76af6af",
+          "size": "3268",
+          "boards": [
+            {"name": "Simulator Interface Board (ICSP)"},
+            {"name": "One Bell Simulator Interface Board (ICSP)"},
+            {"name": "38kHz Simulator Sensor Interface Boards (ICSP)"},
+            {"name": "Prototype Splitter Box Board (ICSP)"},
+            {"name": "Twin Sensor Interface Board (ATmega328P) (ICSP)"},
+            {"name": "Twin Sensor Interface Board (ATtiny85) (ICSP)"}
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
