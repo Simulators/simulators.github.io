@@ -29,8 +29,30 @@
             {"name": "Twin Sensor Interface Board (ATmega328P) (ICSP)"},
             {"name": "Twin Sensor Interface Board (ATtiny85) (ICSP)"}
           ]
+        },
+		{
+          "name": "Liverpool Ringing Simulator Boards",
+          "architecture": "avr",
+          "version": "1.1.0",
+          "category": "Simulator",
+          "help": {
+            "online": ""
+          },
+          "url": "https://simulators.github.io/simulator_boards_1.1.0.zip",
+          "archiveFileName": "simulator_boards_1.1.0.zip",
+          "checksum": "SHA-256:a59438a90a834b7fb8a1fc0139ff5fee956d5e919466bfe523cd14c99dc23dd0",
+          "size": "3577",
+          "boards": [
+            {"name": "Simulator Interface Board (Type 1) (ICSP)"},
+			{"name": "Simulator Interface Board (Type 2) (ICSP)"},
+			{"name": "One Bell Simulator Interface Board (ICSP)"},
+            {"name": "38kHz Simulator Sensor Interface Boards (ICSP)"},
+            {"name": "Prototype Splitter Box Board (ICSP)"},
+            {"name": "Twin Sensor Interface Board (ATmega328P) (ICSP)"},
+            {"name": "Twin Sensor Interface Board (ATtiny85) (ICSP)"}
+          ]
         }
-      ],
+      ],	  
       "tools": []
     }
   ]
