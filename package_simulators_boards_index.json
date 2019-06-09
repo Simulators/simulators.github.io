@@ -72,26 +72,6 @@
 		    {"name": "38kHz Simulator Sensor Interface Boards (ICSP)"}
 			]
         }
-		{
-          "name": "Liverpool Ringing Simulator Boards",
-          "architecture": "avr",
-          "version": "1.2.0",
-          "category": "Simulator",
-          "help": {
-            "online": ""
-          },
-          "url": "https://simulators.github.io/simulator_boards_1.2.0.zip",
-          "archiveFileName": "simulator_boards_1.2.0.zip",
-          "checksum": "SHA-256:e2d0b6c76b813e06589fb8ebfadc4177476db1684bb59d42520eae0d0a6141ea",
-          "size": "3249",
-          "boards": [
-			{"name": "Simulator Interface Board (Type 2) (ICSP)"},
-			{"name": "Simulator Interface Board (Type 2 Rev E+) (ICSP)"},
-			{"name": "Simulator Interface Board (Type 1) (ICSP)"},
-			{"name": "One Bell Simulator Interface Board (ICSP)"},
-		    {"name": "38kHz Simulator Sensor Interface Boards (ICSP)"}
-			]
-        }
       ],	  
       "tools": []
     }
